@@ -1,0 +1,17 @@
+Proceso Promedio
+	Escribir "Ingrese las 10 calificaciones"
+	Leer c1;
+	Leer c2;
+	Leer c3;
+	Leer c4;
+	Leer c5;
+	Leer c6;
+	Leer c7;
+	Leer c8;
+	Leer c9;
+	Leer c10;
+	p=(c1+c2+c3+c4+c5+c6+c7+c8+c9+c10)/10
+	Escribir "Tu promedio es: ",p; 
+	
+FinProceso
+	
